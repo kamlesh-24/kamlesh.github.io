@@ -196,7 +196,7 @@ p {
 #header .hamburger.active .bar::after {
 	top: 0;
 }
-/* End Header section */
+
 
 /* Hero Section */
 #hero {
@@ -262,7 +262,7 @@ p {
 	animation-delay: 2.5s;
 }
 
-/* End Hero Section */
+
 
 /* Services Section */
 #services .services {
@@ -398,7 +398,7 @@ p {
 #projects .project-item:hover .project-img img {
 	transform: scale(1.1);
 }
-/* End Projects section */
+
 
 /* About Section */
 #about .about {
@@ -446,7 +446,7 @@ p {
 	border: 7px solid crimson;
 	z-index: -1;
 }
-/* End About Section */
+
 
 /* contact Section */
 #contact .contact {
@@ -491,7 +491,7 @@ p {
 	line-height: 2rem;
 	font-weight: 500;
 }
-/*End contact Section */
+
 
 /* Footer */
 #footer {
@@ -565,7 +565,7 @@ p {
 		font-weight: 500;
 	}
 }
-/* End Keyframes */
+
 
 /* Media Query For Tablet */
 @media only screen and (min-width: 768px) {
@@ -581,14 +581,14 @@ p {
 	#hero h1 {
 		font-size: 7rem;
 	}
-	/* End Hero */
+	
 
 	/* Services Section */
 	#services .service-bottom .service-item {
 		flex-basis: 45%;
 		margin: 2.5%;
 	}
-	/* End Services Section */
+	
 
 	/* Project */
 	#projects .project-item {
@@ -609,7 +609,7 @@ p {
 	#projects .all-projects .project-img {
 		height: 100%;
 	}
-	/* End Project */
+	
 
 	/* About */
 	#about .about {
@@ -634,7 +634,7 @@ p {
 	#about .col-right h1 {
 		text-align: left;
 	}
-	/* End About */
+	
 
 	/* contact  */
 	#contact .contact {
@@ -668,9 +668,9 @@ p {
 		text-align: left;
 		padding-left: 20px;
 	}
-	/* End contact  */
+	
 }
-/* End Media Query For Tablet */
+
 
 /* Media Query For Desktop */
 @media only screen and (min-width: 1200px) {
@@ -701,4 +701,3 @@ p {
 		margin: 1.5%;
 	}
 }
-/* End  Media Query For Desktop */
